@@ -28,13 +28,13 @@ a :hover {
 }
 .menu ul li {
     margin-right: 80px;
-    font-size: 30px;
+    font-size: 16px;
 }
 .top-image {
     position: fixed;
     top: 0;
     left: 0;
-    height: 80px;
+    height: 60px;
     width: 100%;
     background-image: url(602270_コピーl.jpg);
     background-size: cover;
@@ -62,18 +62,18 @@ a :hover {
     margin: 30px 0;
     text-align: center;
     padding-bottom:30px;
+    margin-bottom: 100px;
 }
 footer {
     height: 60px;
     background-image: url(602270_コピーl.jpg);
-    position: fixed;
-    bottom: 0;
     width: 100%;
     margin: 0 auto;
+    font-size: 12px;
 }
 .copyright {
 text-align: center;
-    font-size: 18px;
+    font-size: 12px;
     padding-top: 15px;
 }
 
@@ -97,6 +97,5 @@ text-align: center;
 }
 .title h1 {
     margin-top: 30px;
-｝
-    
-    }
+
+}
